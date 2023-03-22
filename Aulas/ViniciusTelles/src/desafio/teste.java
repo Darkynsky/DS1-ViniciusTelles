@@ -5,6 +5,8 @@ public class teste {
         
         calculos x = new calculos();
         x.quadrado();
+        x.retangulo();
+        x.triangulo();
         
     }
 }
